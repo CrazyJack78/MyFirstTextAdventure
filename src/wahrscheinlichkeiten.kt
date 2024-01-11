@@ -21,7 +21,7 @@ fun handyCap(){
                 wieOftArmor = 70
                 wieOftTele = 500
                 wieOftOrg = 99
-                wieOftSDZ = 9
+                wieOftSDZ = 93
                 handyCap = 1
                 println("Du hast leicht gewählt")
                 return
@@ -32,7 +32,7 @@ fun handyCap(){
                 wieOftArmor = 85
                 wieOftTele = 750
                 wieOftOrg = 95
-                wieOftSDZ = 9
+                wieOftSDZ = 96
                 handyCap = 2
                 println("Du hast mittel gewählt")
                 return
@@ -43,7 +43,7 @@ fun handyCap(){
                 wieOftArmor = 95
                 wieOftTele = 900
                 wieOftOrg = 90
-                wieOftSDZ = 9
+                wieOftSDZ = 99
                 handyCap = 3
                 println("Du hast schwer gewählt")
                 return
