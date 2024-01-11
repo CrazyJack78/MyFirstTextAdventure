@@ -1,0 +1,18 @@
+Player:----------------------
+pEXPŠ2pEXPĚ
+pDMGŠ25pDMGĚ
+pAddDMGŠ0pAddDMGĚ
+pAddARMŠ0pAddARMĚ
+pMaxHPŠ80pMaxHPĚ
+pHPŠ65pHPĚ
+gLŠ1gLĚ
+Koordinaten:----------------------
+xKŠ0xKĚ/yKŠ10yKĚ
+InventarŠ
+InvPl: 0Typ: Heiltrank ItemName: iNŠHeiltrank(0hp)iNĚItemEigenschaft: iEŠ50iEĚ HP
+InvPl: 1Typ: Armor ItemName: iNŠRüstungiNĚItemEigenschaft: iEŠ9iEĚ Schutz
+InvPl: 2Typ: SDZ ItemName: iNŠSchwert des ZerstörersiNĚItemEigenschaft: iEŠ50iEĚ Damage
+InvPl: 3Typ: Weapon ItemName: iNŠWaffe(12 dmg)iNĚItemEigenschaft: iEŠ12iEĚ Damage
+InvPl: 4Typ: Armor ItemName: iNŠRüstungiNĚItemEigenschaft: iEŠ5iEĚ Schutz
+InvPl: 5Typ: Heiltrank ItemName: iNŠHeiltrank(0hp)iNĚItemEigenschaft: iEŠ60iEĚ HP
+InventarĚ

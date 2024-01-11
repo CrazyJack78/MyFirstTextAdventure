@@ -1,0 +1,15 @@
+AdventureTyp ŠMĚ
+P-Eigen: pEXPŠ2ĚpEXP
+P-Eigen: pDMGŠ25ĚpDMG
+P-Eigen: pAddDMGŠ0ĚpAddDMG
+P-Eigen: pAddARMŠ0ĚpAddARM
+P-Eigen: pMaxHPŠ80ĚpMaxHP
+P-Eigen: pHPŠ70ĚpHP
+P-Eigen: gLŠ1ĚgL
+Koord: xKŠ0ĚxK
+Koord: yKŠ99ĚyK
+SDZ ŠfalseĚ
+InventarStart------------------
+InvPl: 0Typ: Heiltrank ItemEigenschaft: iEŠ60ĚiE ItemName: iNŠHeiltrankĚiN HP
+InvPl: 1Typ: SDZ ItemEigenschaft: iEŠ50ĚiE ItemName: iNŠSDZĚiN Damage
+InventarEnde----------------
